@@ -14,7 +14,7 @@ Crio produtos SaaS, sistemas de automação e ferramentas com inteligência arti
 
 ### 💙 Na Vorisc Tecnologia
 
-Somos especialistas em criar, lançar e operar os próprios produtos digitais. 🚀
+Somos especialistas em criar, lançar e operar produtos digitais. 🚀
 
 Construímos SaaS de ponta a ponta: da pesquisa de mercado e modelagem do produto até arquitetura, desenvolvimento, lançamento, marketing, vendas e operação.
 
